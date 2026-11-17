@@ -1,0 +1,19 @@
+{
+  "name": "Coran App PRO",
+  "short_name": "Coran App",
+  "description": "Lire, écouter et retrouver le Saint Coran.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1e17",
+  "theme_color": "#0b241b",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
